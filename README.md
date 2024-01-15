@@ -19,6 +19,6 @@ A bit about me!
 
 I'm currently working on building a portfolio in PHP on Wordpress, and digging in to .Net and C#!
 
-<img src="https://github-readme-stats.vercel.app/api?username=Livi-96&hide=css,html&show_icons=true&theme=transparent" alt="Github stats"> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Livi-96&hide=scss,html&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=Livi-96&hide=css,html&show_icons=true&theme=transparent" alt="Github stats"> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Livi-96&hide=scss,html,hack&theme=tokyonight)
 
 
