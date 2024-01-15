@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://github-readme-stats.vercel.app/api?username=Livi-96&show_icons=true&theme=transparent" alt="Github stats">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Livi-96&theme=tokyonight)
+A bit about me!
+
+I'm currently working on building a portfolio in PHP on Wordpress, and digging in to .Net and C#!
+
+<img src="https://github-readme-stats.vercel.app/api?username=Livi-96&show_icons=true&theme=transparent" alt="Github stats"> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Livi-96&theme=tokyonight)
 
