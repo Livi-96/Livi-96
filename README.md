@@ -21,4 +21,12 @@ I'm currently working on building a portfolio in PHP on Wordpress, and digging i
 
 <img src="https://github-readme-stats.vercel.app/api?username=Livi-96&hide=css,html&show_icons=true&theme=transparent" alt="Github stats"> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Livi-96&hide=scss,html,hack&theme=tokyonight)
 
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/livi-96/livi-96/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
 
